@@ -2,7 +2,7 @@
 
 [Home](index.md) | [Projects](projects.md) | [Achievements](achievements.md) | [Education](education.md)
 
-![Khushboo Dewangan](Khushboo Passport Photo.jpg)
+![Khushboo Dewangan](Khushboo%20Passport%20Photo.jpg)
 
 ## 👩‍💻 About Me
 Software Engineer in Test with 4+ years of experience in automation, API testing, and CI/CD integration. Skilled in building scalable frameworks and ensuring high-quality software delivery.
