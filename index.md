@@ -8,6 +8,6 @@
 Software Engineer in Test with 4+ years of experience in automation, API testing, and CI/CD integration. Skilled in building scalable frameworks and ensuring high-quality software delivery.
 
 ## 📫 Contact
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- Email: your.email@example.com
+- LinkedIn: [Khushboo Dewangan](https://www.linkedin.com/in/khushboo-dewangan-438a58181/)
+- Email: khushboodewangan91@gmail.com
 
